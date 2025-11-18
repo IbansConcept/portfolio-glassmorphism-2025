@@ -17,7 +17,7 @@ Un mini-portfolio ultra-moderne avec effet **glassmorphism**, fond dégradé ani
 ### Comment lancer le projet
 ```bash
 git clone https://github.com/IbansConcept/portfolio-glassmorphism-2025.git
-cd portfolio-glassmorphism-202
+cd portfolio-glassmorphism-2025
 # Ouvre simplement index.html dans ton navigateur
 ```
 Ou utilise Live Server (VS Code extension) pour encore plus de confort.
@@ -40,6 +40,7 @@ Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 `#HTML` `#CSS` `#JavaScript` `#Glassmorphism` `#Portfolio2025` `#NoTalking` `#LofiCoding` `#WebDev` `#Frontend` `#BeginnerProject`
 
 © 2025 – DiGiProUnic – Tous droits réservés
+
 
 
 

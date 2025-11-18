@@ -1,7 +1,5 @@
 # Mini Portfolio Glassmorphism + Dark Mode Toggle – 2025  
 
-![Thumbnail](https://i9.ytimg.com/vi/XgvkIhc5TR4/mqdefault.jpg?v=691c7cbf&sqp=CIz68cgG&rs=AOn4CLBH0fgCHNswIz3kndVKRWfNtRNJwg)  
-*(Clique sur l’image pour voir la vidéo complète – No Talking, Lofi Coding ♪)*  
 [  Regarder la vidéo YouTube](https://youtu.be/XgvkIhc5TR4)
 
 Un mini-portfolio ultra-moderne avec effet **glassmorphism**, fond dégradé animé et **Dark/Light mode** qui persiste grâce au `localStorage`.  
@@ -33,6 +31,7 @@ Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 |-----------------------------|-----------------------------|
 | ![light](https://github.com/IbansConcept/portfolio-glassmorphism-2025/blob/c24b35a2ac762827090b15714ca887d84d833a92/preview-light.png) | ![dark](https://github.com/IbansConcept/portfolio-glassmorphism-2025/blob/c24b35a2ac762827090b15714ca887d84d833a92/preview-dark.png) |
 
+[  Regarder la vidéo YouTube](https://youtu.be/XgvkIhc5TR4)
 
  **Si ce projet t’aide, n’oublie pas le petit star et l’abonnement YouTube, ça motive énormément !**
 
@@ -40,6 +39,7 @@ Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 `#HTML` `#CSS` `#JavaScript` `#Glassmorphism` `#Portfolio2025` `#NoTalking` `#LofiCoding` `#WebDev` `#Frontend` `#BeginnerProject`
 
 © 2025 – DiGiProUnic – Tous droits réservés
+
 
 
 

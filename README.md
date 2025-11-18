@@ -34,12 +34,16 @@ Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 
  **Si ce projet t’aide, n’oublie pas le petit star et l’abonnement YouTube, ça motive énormément !**
  
- [  Regarder la vidéo YouTube](https://youtu.be/XgvkIhc5TR4)
+<a href="https://youtu.be/XgvkIhc5TR4" target="_blank" rel="noopener noreferrer">
+  Regarder la vidéo YouTube
+</a>
 
 ### Tags
 `#HTML` `#CSS` `#JavaScript` `#Glassmorphism` `#Portfolio2025` `#NoTalking` `#LofiCoding` `#WebDev` `#Frontend` `#BeginnerProject`
 
-© 2025 – DiGiProUnic – Tous droits réservés
+© 2025 – <a href="https://digiprounic.com" target="_blank" rel="noopener noreferrer">DiGiProUnic</a> – Tous droits réservés
+
+
 
 
 

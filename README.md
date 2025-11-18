@@ -7,10 +7,6 @@
 Un mini-portfolio ultra-moderne avec effet **glassmorphism**, fond dégradé animé et **Dark/Light mode** qui persiste grâce au `localStorage`.  
 100 % HTML + CSS + Vanilla JavaScript → parfait pour les débutants qui veulent un rendu pro.
 
-### Aperçu
-![Preview Light](preview-light.jpg)  
-![Preview Dark](preview-dark.jpg)
-
 ### Fonctionnalités
 - Effet glassmorphism (backdrop-filter + blur)
 - Dark / Light mode avec toggle fluide
@@ -25,7 +21,6 @@ git clone https://github.com/TonPseudo/portfolio-glassmorphism-2025.git
 cd portfolio-glassmorphism-2025
 # Ouvre simplement index.html dans ton navigateur
 ```
-
 Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 
 ### Stack utilisée
@@ -45,4 +40,5 @@ Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 `#HTML` `#CSS` `#JavaScript` `#Glassmorphism` `#Portfolio2025` `#NoTalking` `#LofiCoding` `#WebDev` `#Frontend` `#BeginnerProject`
 
 © 2025 – DiGiProUnic – Tous droits réservés
+
 

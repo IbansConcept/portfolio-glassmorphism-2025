@@ -32,7 +32,7 @@ Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 |-----------------------------|-----------------------------|
 | ![light](https://github.com/IbansConcept/portfolio-glassmorphism-2025/blob/c24b35a2ac762827090b15714ca887d84d833a92/preview-light.png) | ![dark](https://github.com/IbansConcept/portfolio-glassmorphism-2025/blob/c24b35a2ac762827090b15714ca887d84d833a92/preview-dark.png) |
 
- **Si ce projet t’aide, n’oublie pas la petit ⭐ et l’abonnement YouTube, ça motive énormément !**
+ **Si ce projet t’aide, n’oublie pas la petite ⭐ et l’abonnement YouTube, ça motive énormément !**
  
 🎬 **Vidéo :**   👉 [Regarder la vidéo sur YouTube](https://youtu.be/XgvkIhc5TR4)
 
@@ -40,6 +40,7 @@ Ou utilise Live Server (VS Code extension) pour encore plus de confort.
 `#HTML` `#CSS` `#JavaScript` `#Glassmorphism` `#Portfolio2025` `#NoTalking` `#LofiCoding` `#WebDev` `#Frontend` `#BeginnerProject`
 
 **© 2025 – [DiGiProUnic](https://digiprounic.com)** – Tous droits réservés
+
 
 
 
